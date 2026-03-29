@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
-    "version": "",
+    "ip": "oylesine5656.aternos.me1",
+    "port": 61491,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to ",
         "I like to play Minecraft!"
       ]
     },
